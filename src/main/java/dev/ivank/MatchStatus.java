@@ -1,2 +1,5 @@
-package dev.ivank;public class MatchStatus {
+package dev.ivank;
+
+public enum MatchStatus {
+    IN_PROGRESS, FINISHED
 }
